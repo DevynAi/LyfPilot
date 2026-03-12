@@ -363,4 +363,4 @@ User Request
 
 *This document describes the architectural design of LyfPilot. The source code is proprietary and not publicly available.*
 
-**© 2024-2026 DevynAi. All rights reserved.**
+**© 2024-2026 DevStudio AI. All rights reserved.**

@@ -129,4 +129,4 @@ Internal packages ensure consistency across the monorepo:
 
 ---
 
-*© 2024-2026 DevynAi. All rights reserved.*
+*© 2024-2026 DevStudio AI. All rights reserved.*

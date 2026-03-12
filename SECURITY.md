@@ -199,4 +199,4 @@ All 12+ third-party integrations follow the same security pattern:
 
 ---
 
-*© 2024-2026 DevynAi. All rights reserved.*
+*© 2024-2026 DevStudio AI. All rights reserved.*
